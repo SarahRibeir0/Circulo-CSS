@@ -1,0 +1,22 @@
+ body{
+	margin: 50px;
+ }
+ 
+ div{
+	 margin:50px;
+ }
+ 
+ #circulo{
+	width: 150px;
+	height:150px;
+	background-color: red;
+	border-radius: 50%;
+ }
+ 
+ #circulo2 {
+	 width:100px;
+	 height:100px;
+	 border-radius:50%;
+	 border: 2px dotted purple;
+	 
+	}
